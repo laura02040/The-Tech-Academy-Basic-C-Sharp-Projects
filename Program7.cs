@@ -14,6 +14,7 @@ namespace Polymorphism_Assignment
             IQuittable quitter = new Employee { Name = "Alice" };
             quitter . Quit();
             Console.ReadLine();
+
         }
     }
 }
