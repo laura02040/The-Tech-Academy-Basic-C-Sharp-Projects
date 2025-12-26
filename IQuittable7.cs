@@ -10,8 +10,5 @@ namespace Polymorphism_Assignment
     {
         //define a void method called Quit().
         void Quit();
-
-
-
     }
 }

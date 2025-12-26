@@ -6,17 +6,22 @@ using System.Threading.Tasks;
 
 namespace Polymorphism_Assignment
 {
-    class Employee:IQuittable
+   public class Employee
     {
-        public string Name { get; set; }
-        public Employee(string name)
+        // create another class, "Employee" and have it inherit from the Person class
+        class employee : IQuittable
         {
-            Name = name;
-        }
-        public void Quit()
-        {
-            Console.WriteLine($"{"Name"} has quit the job.");
-            Console.ReadLine();
+            public string Name { get; set; }
+            public employee(string name)
+            {
+                Name = name;
+            }
+            public void Quit()
+            {
+                Console.WriteLine($"{"Alise"} has quit the job.");
+                Console.ReadLine();
+            }
         }
     }
 }
+

@@ -1,7 +1,0 @@
-C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
-C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe
-C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.pdb
-C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.AssemblyReference.cache
-C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.CoreCompileInputs.cache
-C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
-C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb
