@@ -11,7 +11,7 @@ namespace Polymorphism_Assignment
         public static void Main(string[] args)
         {
             //Use polymorphism to create an object of type IQuittable and call the Quit() method on it
-            IQuittable quitter = new Employee { Name = "Alice" };
+            IQuittable quitter = new Employee("Alise");
             quitter . Quit();
             Console.ReadLine();
         }

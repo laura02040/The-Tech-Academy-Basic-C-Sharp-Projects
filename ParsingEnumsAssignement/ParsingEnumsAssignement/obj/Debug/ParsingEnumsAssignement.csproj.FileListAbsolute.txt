@@ -1,0 +1,7 @@
+C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignement\ParsingEnumsAssignement\bin\Debug\ParsingEnumsAssignement.exe.config
+C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignement\ParsingEnumsAssignement\bin\Debug\ParsingEnumsAssignement.exe
+C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignement\ParsingEnumsAssignement\bin\Debug\ParsingEnumsAssignement.pdb
+C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\ParsingEnumsAssignement.csproj.AssemblyReference.cache
+C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\ParsingEnumsAssignement.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\ParsingEnumsAssignement.exe
+C:\Users\Laura\Source\Repos\StudentReport1\StudentReport1\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignement\ParsingEnumsAssignement\obj\Debug\ParsingEnumsAssignement.pdb
