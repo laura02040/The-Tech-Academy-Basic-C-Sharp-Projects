@@ -10,6 +10,8 @@ namespace Calling_Methods_Assignment
     {
         static void Main(string[] args)
         {
+            //ask the user what number they want to do the math operations on.
+
             Console.WriteLine("You've encounted Groznyi the Brigand and he lauches a surprise attack.");
             Console.WriteLine("Input your defense stat:");
             int defense = Convert.ToInt32(Console.ReadLine());
