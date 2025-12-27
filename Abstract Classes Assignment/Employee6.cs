@@ -16,8 +16,6 @@ namespace Abstract_Classes_Assignment
             public override void SayName()
             {
                 Console.WriteLine("Name:" + firstName + "" + lastName);
-
-
             }
         }
     }

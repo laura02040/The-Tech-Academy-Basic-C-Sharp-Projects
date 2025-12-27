@@ -1,32 +1,32 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace StudentReport
+namespace Calling_Methods_Assignment
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Academy of Learning Career College");
-            Console.WriteLine("Student Daily Report");
-            Console.WriteLine("What is your name?");
-            String name = Console.ReadLine();
-            Console.WriteLine("What course are you on?");
-            String course = Console.ReadLine();
-            Console.WriteLine("What page number?");
-            int pageNum = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Do you need Help with anything? Please answer \"true\"or\"false");
-            String needHelp = Console.ReadLine();
-            bool needHelpBool =bool.Parse(needHelp);
-            Console.WriteLine("Where there any positive expence you'd like to share? Please give specifics");
-            string positiveExpences = Console.ReadLine();
-            Console.WriteLine("Is there any other feedback you'd like to provide? Please be specific");
-            string feedback = Console.ReadLine();
-            Console.WriteLine("How many hours did you study today?");
-            string studyHours = Console.ReadLine();
-            int studyHoursNum = Convert.ToInt32(studyHours);
-            Console.WriteLine("Thank you for your answer. An instuctor will respond to ths shortly. Have a great day!");
-            Console.ReadLine();
+            Console.WriteLine("You've encounted Groznyi the Brigand and he lauches a surprise attack.");
+            Console.WriteLine("Input your defense stat:");
+            int defense = Convert.ToInt32(Console.ReadLine());
+            int enemy_damage = MathMethods.Defense(defense);
+            Console.WriteLine("You have taken" + enemy_damage + "HP of damage.");
+            Console.WriteLine("Your healer, Serra is near by. She heals you with her staff.");
+            Console.WriteLine("Input your healer's magic stat:");
+            int magic = Convert.ToInt32(Console.ReadLine());
+            int hitpoints = MathMethods.Heal(magic);
+            Console.WriteLine("You have been healed for" + hitpoints+ "HP.");
+            Console.WriteLine("Now it's your turn to counter attack.");
+            Console.WriteLine("Input your strength stat:");
+            int strength = Convert.ToInt32(Console.ReadLine());
+            int damage = MathMethods.Attack(strength);
+            Console.WriteLine("You have landed a critical attack and dealt"+ damage+ "HP worth of damage.");
+            Console.WriteLine("");
+
         }
     }
 }
-
